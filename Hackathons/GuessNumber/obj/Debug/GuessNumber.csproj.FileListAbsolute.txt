@@ -1,0 +1,10 @@
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\bin\Debug\GuessNumber.exe
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.exe
+C:\Users\user\Documents\CSharp\Hackathons\GuessNumber\obj\Debug\GuessNumber.pdb
